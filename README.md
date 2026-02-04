@@ -28,7 +28,7 @@ The script follows a 4-stage "Playbook" logic common in enterprise SOAR platform
 
 ---
 
-## 📋 Professional Implementation Details
+## 📋 Implementation Details
 
 ### Secret Management
 In compliance with security best practices, I implemented a `.gitignore` policy to ensure that sensitive API keys and internal log files are never exposed in the public repository.
