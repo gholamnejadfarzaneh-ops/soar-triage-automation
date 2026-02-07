@@ -1,7 +1,7 @@
 # Automated Security Triage Playbook (Python & VirusTotal API)
 
 ## 📌 Project Overview
-As a cybersecurity new graduate, I developed this project to demonstrate the core competencies required for a **SOAR (Security Orchestration, Automation, and Response) Specialist**. 
+As a cybersecurity new graduate, I developed this project to demonstrate the core competencies required for a **SOAR impementation**. 
 
 This project automates the initial **Triage and Enrichment** phase of an incident response workflow. By using Python to bridge a local environment with a global Threat Intelligence source (VirusTotal), I have created a tool that reduces the "Mean Time to Respond" (MTTR) by eliminating the need for manual URL lookups.
 
